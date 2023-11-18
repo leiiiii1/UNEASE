@@ -43,6 +43,7 @@
 
 # Level Design
   Level 1 design:
+   
    Level 1 takes place at her bedroom
 
      
