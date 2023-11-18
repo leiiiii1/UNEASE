@@ -26,6 +26,7 @@
 # Controls
 
   W,S,A,D - for movements
+  
   Left-click - to interact with some objects
   
 # More Screenshot of the gameplay!
@@ -42,7 +43,10 @@
 
 # Level Design
   Level 1 design:
+  
      Level 1 takes place at her bedroom
+
+     
 ![Lvl1Design](https://github.com/leiiiii1/UNEASE/assets/111544542/eb0231c3-3a56-44e2-acd9-895e2530329f)
     
 # Build File
