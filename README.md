@@ -12,16 +12,12 @@
   Find the needed object before time runs out! 
 
   Bad Objects - objects that will lessen the time
-  
-  ![image](https://github.com/leiiiii1/UNEASE/assets/111544542/fc7e58cc-7c50-4c61-b4fe-c0ccaac95a9c)
 
   Good objects - objects that will increase the time
   
-  ![image](https://github.com/leiiiii1/UNEASE/assets/111544542/179f8313-7796-4347-aa1e-5744e305f071)
-  
   Key objects - the object that will win the level
-  
-  ![image](https://github.com/leiiiii1/UNEASE/assets/111544542/774f657c-e375-4bbf-ad20-4cbb95a723d6)
+
+  Note: Not uploading the pics, in case you want to try the level for yourself!
 
 # Controls
 
